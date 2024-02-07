@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/05 16:29:31.000.291,=C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 16:30:53.000.413,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\projetos\tutoriais\Delphi\PDV\src\view\view.Principal.dfm</Transaction>
+    <Transaction>2024/02/05 16:30:53.000.413,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\projetos\tutoriais\Delphi\PDV\src\view\view.Principal.pas</Transaction>
+    <Transaction>2024/02/05 16:31:02.000.376,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\projetos\tutoriais\Delphi\PDV\src\pdv.dproj</Transaction>
+    <Transaction>2024/02/06 10:45:54.675,=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 10:46:47.172,C:\projetos\tutoriais\Delphi\PDV\src\view\view.Login.pas=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 10:46:47.172,C:\projetos\tutoriais\Delphi\PDV\src\view\view.Login.dfm=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.dfm</Transaction>
+    <Transaction>2024/02/06 19:24:09.120,=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 19:27:14.062,C:\projetos\tutoriais\Delphi\PDV\src\view\componente\view.componente.Transparencia.pas=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 19:27:14.062,C:\projetos\tutoriais\Delphi\PDV\src\view\componente\view.componente.Transparencia.dfm=C:\projetos\tutoriais\Delphi\PDV\src\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
